@@ -1,8 +1,8 @@
 # COVID-19-Data-Visualization
 <br/>
 <h2>Quick Start</h2>
-<p>Within this repository, click the 'application' folder and download the 'Archive.zip' file (the file is quite large at 155.2 MB, apologies). Once the file
-has downloaded, unzip the file in a desirable location on your computer. Your operating system should direct you to the extracted files.</p>
+<p>Within this repository, click the 'application' folder and download the 'windows-amd64' folder. Once the file
+has downloaded, open the folder and double click the source.exe file.</p>
 <br/>
 <p>Only the windows executable is available at the moment, due to file size limits on Github. If you are unable to use this executable, please reference the demo video at the bottom of this page.</p>
 <span style="color:red">This app requires you to have a java run time (JRE) installed on your system. If you do not have it installed, you may download it through the </span><p>[Official JRE Website](https://www.java.com/en/download/manual.jsp)</p>
