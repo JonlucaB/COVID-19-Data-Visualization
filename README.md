@@ -4,7 +4,7 @@
 <p>Within this repository, click the 'application' folder and download the 'Archive.zip' file (the file is quite large at 155.2 MB, apologies). Once the file
 has downloaded, unzip the file in a desirable location on your computer. Your operating system should direct you to the extracted files.</p>
 <br/>
-<p>When in the directory, navigate to the directory that is named after your operating system. Navigate down the directory until you see a 'source.exe' (source.app for MacOs users) and double click it.</p>
+<p>Only the windows executable is available at the moment, due to file size limits on Github. If you are unable to use this executable, please reference the demo video at the bottom of this page.</p>
 <span style="color:red">This app requires you to have a java run time (JRE) installed on your system. If you do not have it installed, you may download it through the </span><p>[Official JRE Website](https://www.java.com/en/download/manual.jsp)</p>
 <br/>
 <h2>What is This?</h2>
